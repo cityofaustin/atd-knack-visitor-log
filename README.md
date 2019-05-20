@@ -1,4 +1,4 @@
-# atd-knack-visitor-log
+# ATD Visitor Sign-In
 This visitor sign-in application serves at the primary way to track visitors attending meetings/being on ATD offices. It's powered by [Knack](http://knack.com).
 
 #### Login
@@ -10,4 +10,4 @@ This visitor sign-in application serves at the primary way to track visitors att
 
 **[Read the docs - TBD]
 
-![signal details](media/data-tracker-signal-screenshot.png)
+![visitor log home page](media/screen_shot_visitor_log.PNG)
